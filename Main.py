@@ -44,7 +44,7 @@ def write_results_to_docx(filename, data):
 
 # Main function to read prompts from Excel and store responses in a Word document
 def main():
-    openai_api_key = "sk-OXNsYNxSDx8kdtQxs9Xn7DrHwvdoYKx2MM8NGmHJp4T3BlbkFJ6X8wkotlK286QP4TUVmaxolwS0suY1gscjajNrWE4A"  # Replace with your OpenAI API key
+    openai_api_key = "Enter your API Code"  # Replace with your OpenAI API key
     input_excel_file = "prompts.xlsx"  # Replace with your Excel file containing prompts
     output_file = "ChatGPT_Responses.docx"
 

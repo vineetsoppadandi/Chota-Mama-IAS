@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ae081b04-c198-40dc-89bd-ac4d0fbbc406" name="Changes" comment="Working to send commands">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +57,7 @@
     &quot;Python.Main.executor&quot;: &quot;Run&quot;,
     &quot;Python.MainBing.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;ChatGpt&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/VINEET_NEW/PycharmProjects/Chota mama IAS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -90,6 +91,7 @@
       <updated>1723899177050</updated>
       <workItem from="1723899180221" duration="11939000" />
       <workItem from="1724236908867" duration="10107000" />
+      <workItem from="1724577035950" duration="139000" />
     </task>
     <task id="LOCAL-00001" summary="v">
       <option name="closed" value="true" />
